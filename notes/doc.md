@@ -7,7 +7,8 @@
 
 
 ### 注意事项
-manifest_version必须设置为数子2
+* manifest_version必须设置为数子2　
+* 图标不显示
 
 
 ### 一些参考
