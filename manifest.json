@@ -4,14 +4,14 @@
     "description": "This extension build to pull nba news from nba.qq.com",
     "version": "1.0",
     "icons": {
-        "16": "images/menu_logo.png",
-        "48": "images/extension_logo.png",
-        "128": "images/install_logo.png"
+        "16": "images/nba16.png",
+        "48": "images/nba48.png",
+        "128": "images/nba128.png"
     },
     "browser_action": {
-        "default_icon": "icon19.png",
+        "default_icon": "images/nba48.png",
         "default_popup": "popup.html",
-        "default_title": "Click yipeng to pull!"
+        "default_title": "yipeng:Click to pull!"
     },
     "permissions": [
         "activeTab",
